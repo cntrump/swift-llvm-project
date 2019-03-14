@@ -1,0 +1,27 @@
+[submodule "llvm"]
+	path = llvm
+	url = https://github.com/apple/swift-llvm.git
+[submodule "clang"]
+	path = clang
+	url = https://github.com/apple/swift-clang.git
+[submodule "clang-tools-extra"]
+	path = clang-tools-extra
+	url = https://github.com/apple/swift-clang-tools-extra.git
+[submodule "libcxx"]
+	path = libcxx
+	url = https://github.com/apple/swift-libcxx.git
+[submodule "compiler-rt"]
+	path = compiler-rt
+	url = https://github.com/apple/swift-compiler-rt.git
+[submodule "lldb"]
+	path = lldb
+	url = https://github.com/apple/swift-lldb.git
+[submodule "cmark"]
+	path = cmark
+	url = https://github.com/apple/swift-cmark.git
+[submodule "ninja"]
+	path = ninja
+	url = https://github.com/ninja-build/ninja.git
+[submodule "swift"]
+	path = swift
+	url = https://github.com/apple/swift.git
