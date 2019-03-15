@@ -28,3 +28,6 @@
 [submodule "llbuild"]
 	path = llbuild
 	url = https://github.com/apple/swift-llbuild.git
+[submodule "swiftpm"]
+	path = swiftpm
+	url = https://github.com/apple/swift-package-manager.git
