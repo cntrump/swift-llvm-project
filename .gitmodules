@@ -25,3 +25,6 @@
 [submodule "swift"]
 	path = swift
 	url = https://github.com/apple/swift.git
+[submodule "llbuild"]
+	path = llbuild
+	url = https://github.com/apple/swift-llbuild.git
